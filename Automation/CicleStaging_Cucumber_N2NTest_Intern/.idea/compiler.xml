@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="CicleStaging_Cucumber2_N2NTest" />
+        <module name="CicleStaging_Cucumber2_N2NTest_Magang" />
+        <module name="CicleStaging_Cucumber_N2NTest_Magang" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

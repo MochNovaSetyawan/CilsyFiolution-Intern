@@ -1,0 +1,8 @@
+Pages\BoardPages.class
+Pages\DocNFilesPages.class
+Pages\SearchPages.class
+MyStepdefs\DocNFilesTest.class
+MyStepdefs\BaseTest.class
+MyStepdefs\SearchTest.class
+TestRunner\TestRunner.class
+MyStepdefs\BoardTest.class
